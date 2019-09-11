@@ -120,11 +120,11 @@ education:
 # intro: |
 # I'm an engineer, entrepreneur and music/arts enthusiast currently working on transforming how we interact with the digital world through using every day objects as interfaces. My previous project VRSUS is a creative application for capturing live music in Virtual Reality and re-creating the concert experience. My other projects have involved pipelines for machine learning, concert recommendation tools, integrations for online advertising and various small web projects. I studied Systems Design and HCI in the context of music. My MA thesis presented methods and studies used in mapping live performance (human) gestures to sound in digital musical instruments. 
 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo:
-  - **Docker**: Most of the projects I have lately worked on are dockerized and use an array of services and containers to run both in development mode and in production
-  - **Python**: I have experience with both scientific python and python web framceworks such as Django and Flask
-  - **Cloud platforms**: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito
-  - **Web Development**: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap. More recently I have written React applications
-  - **Development Control**: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jenkins, etc. I have experience with an array of testing tools and technologies
+  -**Docker**: Most of the projects I have lately worked on are dockerized and use an array of services and containers to run both in development mode and in production
+  -**Python**: I have experience with both scientific python and python web framceworks such as Django and Flask
+  -**Cloud Platforms**: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito
+  -**Web Development**: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap. More recently I have written React applications
+  -**Development Control**: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jenkins, etc. I have experience with an array of testing tools and technologies
+
 theme: jekyll-theme-minimal
