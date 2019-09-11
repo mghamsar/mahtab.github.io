@@ -38,13 +38,13 @@ skills:
 #Work experience is required
 roles:
   - title: AI Scientist
-    start: Jan-2018
-    end: Aug-2019
+    start: 2018
+    end: 2019
     employer: Hypersurfaces (Mogees) Ltd.
     description: Using sensor-fusion and deep learning we turn physical objects into interactive controllers. I work both as a scientist and a product designer and scrum master. As a small team, everyone is involved with design decisions, development and research regardless of their background.
   - title: Co-Founder
-    start: Mar-2016
-    end: June-2018
+    start: 2016
+    end: 2018
     employer: VRSUS
     description: We're showcasing live music in Virtual Reality, integrating the most realistic elements of light, 3D sound, 360 video capture together within VR to give remote spectators a realistic sense of what it's like to actually participate in large concerts and public events.
   - title: Full-stack Engineer
