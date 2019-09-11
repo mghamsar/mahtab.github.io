@@ -1,6 +1,6 @@
 # Site settings
 # title: Mahtab
-# twitter_username: mahtabgol
+twitter_username: mahtabgol
 # name: Mahtab Ghamsari
 
 # Build settings
@@ -17,19 +17,20 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
   - Python
-  - Hadoop
+  - Docker
+  - Flask & Django
+  - Hadoop & HIVE
   - Microservices
   - ReactJS
-  - Product management
+  - Product Management
   - API design
   - Data Engineering
   - Audio Signal Processing
-  - HIVE
   - Javascript
   - SQL
   - REST
   - Technical Architecture
-  - Machine learning
+  - Machine Learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
