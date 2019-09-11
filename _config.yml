@@ -122,9 +122,9 @@ education:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo:
-   <strong>Docker</strong>: Most of the projects I have lately worked on are dockerized and use an array of services and containers to run both in development mode and in production. <br/><br/>
-   <strong>Python</strong>: I have experience with both scientific python and python web framceworks such as Django and Flask. <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito. <br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap. More recently I have written React applications. <br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jenkins, etc. I have experience with an array of testing tools and technologies.<br/><br/>
+  - <strong>Docker</strong>: Most of the projects I have lately worked on are dockerized and use an array of services and containers to run both in development mode and in production. <br/><br/>
+  - <strong>Python</strong>: I have experience with both scientific python and python web framceworks such as Django and Flask. <br/><br/>
+  - <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito. <br/><br/>
+  - <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap. More recently I have written React applications. <br/><br/>
+  - <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jenkins, etc. I have experience with an array of testing tools and technologies.<br/><br/>
 theme: jekyll-theme-minimal
