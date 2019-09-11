@@ -38,13 +38,13 @@ skills:
 #Work experience is required
 roles:
   - title: AI Scientist
-    start: January 2018
-    end: August 2019
+    start: Jan-2018
+    end: Aug-2019
     employer: Hypersurfaces (Mogees) Ltd.
     description: Using sensor-fusion and deep learning we turn physical objects into interactive controllers. I work both as a scientist and a product designer and scrum master. As a small team, everyone is involved with design decisions, development and research regardless of their background.
   - title: Co-Founder
-    start: March 2016
-    end: June 2018
+    start: Mar-2016
+    end: June-2018
     employer: VRSUS
     description: We're showcasing live music in Virtual Reality, integrating the most realistic elements of light, 3D sound, 360 video capture together within VR to give remote spectators a realistic sense of what it's like to actually participate in large concerts and public events.
   - title: Full-stack Engineer
@@ -121,10 +121,10 @@ education:
 # I'm an engineer, entrepreneur and music/arts enthusiast currently working on transforming how we interact with the digital world through using every day objects as interfaces. My previous project VRSUS is a creative application for capturing live music in Virtual Reality and re-creating the concert experience. My other projects have involved pipelines for machine learning, concert recommendation tools, integrations for online advertising and various small web projects. I studied Systems Design and HCI in the context of music. My MA thesis presented methods and studies used in mapping live performance (human) gestures to sound in digital musical instruments. 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-# additionalinfo: |
-#    <strong>Docker</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
-#    <strong>Python</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-#    <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-#    <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-#    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
+additionalinfo: |
+   <strong>Docker</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
+   <strong>Python</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
+   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
+   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
 theme: jekyll-theme-minimal
