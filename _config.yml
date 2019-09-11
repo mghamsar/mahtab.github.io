@@ -126,3 +126,5 @@ additionalinfo: |
    <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
    <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
+
+theme: jekyll-theme-minimal
