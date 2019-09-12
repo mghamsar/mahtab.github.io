@@ -1,12 +1,11 @@
 # Site settings
 # title: Mahtab
 twitter_username: mahtabgol
-# name: Mahtab Ghamsari
+name: Mahtab Ghamsari
 
 # Build settings
 markdown: kramdown
 
-#User specific content
 #Links that will appear in the navbar
 primarylinks:
   - title: GitHub
@@ -90,40 +89,21 @@ additionalinfo:
    #   link: https://www.coursera.org/course/progfun
    #   optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
    #   date: September 16, 2013
-   # - title: Algorithms Design and Analysis, Part 1
-   #   link: https://www.coursera.org/specializations/algorithms
-   #   optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-   #   date: April 28, 2014
 
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
 #speakerdeck:
 #   profileurl: https://speakerdeck.com/robhinds
 #   talks:
 #    - title: Product Management for Engineers
 #      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
 #      conference: API Conference, Berlin 2018
-#    - title: Agile Machine Learning - from Theory to Production
-#      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-#      conference: W-JAX Conference, Munich 2017 (London 2017)
 
-#List of interesting Github repo/projects to include - optional
 #github:
 # - robhinds/robhinds.github.io
 # - robhinds/ScaLambda
-# - robhinds/opinionated-akka-http
-# - robhinds/food2vec
-# - robhinds/microservices
-# - robhinds/spring-social-geeklist
-# - robhinds/spring-social-stackoverflow
-# - robhinds/genotype
-# - robhinds/footweets
-# - robhinds/ElasticSearchGradle
 
 #Stackoverflow flair is optional
 #stackoverflow:
 #   profileurl: http://stackoverflow.com/users/258813/rhinds
-#   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: I'm an engineer, entrepreneur and music/arts enthusiast currently working on transforming how we interact with the digital world through using every day objects as interfaces. My previous project VRSUS is a creative application for capturing live music in Virtual Reality and re-creating the concert experience. My other projects have involved pipelines for machine learning, concert recommendation tools, integrations for online advertising and various small web projects. I studied Systems Design and HCI in the context of music. My MA thesis presented methods and studies used in mapping live performance (human) gestures to sound in digital musical instruments. 
 
