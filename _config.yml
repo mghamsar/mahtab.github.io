@@ -31,6 +31,7 @@ skills:
   - REST
   - Technical Architecture
   - Machine Learning
+  - Max/MSP
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
@@ -124,8 +125,7 @@ additionalinfo:
 #   profileurl: http://stackoverflow.com/users/258813/rhinds
 #   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
-# intro: |
-# I'm an engineer, entrepreneur and music/arts enthusiast currently working on transforming how we interact with the digital world through using every day objects as interfaces. My previous project VRSUS is a creative application for capturing live music in Virtual Reality and re-creating the concert experience. My other projects have involved pipelines for machine learning, concert recommendation tools, integrations for online advertising and various small web projects. I studied Systems Design and HCI in the context of music. My MA thesis presented methods and studies used in mapping live performance (human) gestures to sound in digital musical instruments. 
+intro: I'm an engineer, entrepreneur and music/arts enthusiast currently working on transforming how we interact with the digital world through using every day objects as interfaces. My previous project VRSUS is a creative application for capturing live music in Virtual Reality and re-creating the concert experience. My other projects have involved pipelines for machine learning, concert recommendation tools, integrations for online advertising and various small web projects. I studied Systems Design and HCI in the context of music. My MA thesis presented methods and studies used in mapping live performance (human) gestures to sound in digital musical instruments. 
 
 
 theme: jekyll-theme-minimal
