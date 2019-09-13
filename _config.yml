@@ -73,11 +73,11 @@ education:
     subject: Systems Design Engineering
     school: University of Waterloo
 
-additionalinfo: <strong> Docker </strong> Most of the projects I have lately worked on are dockerized and use an array of services and containers to run both in development mode and in production. </br>
-  # <strong> Python </strong>: I have experience with both scientific python and python web framceworks such as Django and Flask. </br>
-  # <strong>  Cloud Platforms </strong> : I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, IAM. </br>
-  # <strong> Web Development </strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap. More recently I have written React applications. </br>
-  # <strong> Development Control </strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jenkins, etc. I have experience with an array of testing tools and technologies. </br>
+additionalinfo: <strong> Docker - </strong> Most of the projects I have lately worked on are dockerized and use an array of services and containers to run both in development mode and in production. </br>
+<strong> Python - </strong> I have experience with both scientific python and python web framceworks such as Django and Flask. </br>
+<strong>  Cloud Platforms - </strong> I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, IAM. </br>
+<strong> Web Development - </strong> Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap. More recently I have written React applications. </br>
+<strong> Development Control - </strong> I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jenkins, etc. I have experience with an array of testing tools and technologies. </br>
 
 #github:
 # - robhinds/robhinds.github.io
