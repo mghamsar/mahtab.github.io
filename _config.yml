@@ -75,36 +75,15 @@ education:
     subject: Systems Design Engineering
     school: University of Waterloo
 
-additionalinfo:
-  <ul>
-  <li> Docker: Most of the projects I have lately worked on are dockerized and use an array of services and containers to run both in development mode and in production. </li>
-  <li> Python: I have experience with both scientific python and python web framceworks such as Django and Flask. </li>
-  <li> Cloud Platforms: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, IAM. </li>
-  <li> Web Development: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap. More recently I have written React applications. </li>
-  <li> Development Control: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jenkins, etc. I have experience with an array of testing tools and technologies. </li>
-  </ul>
-#This section is optional (as is the image link below)
-#coursera:
-   #profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   #courses:
-   # - title: Functional Programming Principles in Scala
-   #   link: https://www.coursera.org/course/progfun
-   #   optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-   #   date: September 16, 2013
-
-#speakerdeck:
-#   profileurl: https://speakerdeck.com/robhinds
-#   talks:
-#    - title: Product Management for Engineers
-#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-#      conference: API Conference, Berlin 2018
+additionalinfo: 
+  <strong> Docker </strong>: Most of the projects I have lately worked on are dockerized and use an array of services and containers to run both in development mode and in production. </br>
+  <strong> Python </strong>: I have experience with both scientific python and python web framceworks such as Django and Flask. </br>
+  <strong>  Cloud Platforms </strong> : I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, IAM. </br>
+  <strong> Web Development </strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap. More recently I have written React applications. </br>
+  <strong> Development Control </strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jenkins, etc. I have experience with an array of testing tools and technologies. </br>
 
 #github:
 # - robhinds/robhinds.github.io
 # - robhinds/ScaLambda
-
-#Stackoverflow flair is optional
-#stackoverflow:
-#   profileurl: http://stackoverflow.com/users/258813/rhinds
 
 theme: jekyll-theme-minimal
